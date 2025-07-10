@@ -102,8 +102,10 @@ You can adjust styling or HTML as needed.
 ## 💻 Screenshots
 
 Example Overview Page:
-![alt text](image.png)
-![alt text](image-1.png)
+<img width="1701" height="874" alt="image" src="https://github.com/user-attachments/assets/3c6f110b-e0b1-49d5-b8bd-24f3a47bb7c8" />
+<img width="1007" height="901" alt="image" src="https://github.com/user-attachments/assets/81204ddf-4a7c-467e-ba81-230531a87e5a" />
+
+
 
 
 ---
